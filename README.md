@@ -11,12 +11,12 @@
 <p align="center">Este projeto faz parte do Ignite da RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
 <p align="center">
- <a href="#Objective">Objetivo</a> •
+ <a href="#Objetivo">Objetivo</a> •
  <a href="#Features">Features</a> • 
- <a href="#Technology">Tecnologia</a> •
- <a href="#Execute">Como Executar</a> •
- <a href="#License">Licença</a> • 
- <a href="#Author">Autor</a>
+ <a href="#Tecnologia">Tecnologia</a> •
+ <a href="#Como Executar">Como Executar</a> •
+ <a href="#Licença">Licença</a> • 
+ <a href="#Autor">Autor</a>
 </p>
 
 ## Objetivo
