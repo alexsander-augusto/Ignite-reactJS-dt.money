@@ -40,7 +40,7 @@ As seguintes linguagens foram utilizadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como executar
+## Como executar
 
 - Clone o repositório
 - Instale as dependências com yarn
