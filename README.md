@@ -14,7 +14,7 @@
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Features">Features</a> • 
  <a href="#Tecnologia">Tecnologia</a> •
- <a href="#Como Executar">Como Executar</a> •
+ <a href="#Comoexecutar">Como Executar</a> •
  <a href="#Licença">Licença</a> • 
  <a href="#Autor">Autor</a>
 </p>
