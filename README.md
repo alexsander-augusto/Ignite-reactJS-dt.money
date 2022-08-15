@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
 ---
-
-![image](#)
+<h2 align="center">dt.money</h2>
+<img alt="Screenshot" src="https://github.com/shootowned/Ignite-reactJS-dt.money/blob/main/.github/screenshot.png">
 
 ---
 
@@ -14,14 +14,15 @@
  <a href="#Objective">Objetivo</a> •
  <a href="#Features">Features</a> • 
  <a href="#Technology">Tecnologia</a> •
+ <a href="#Execute">Como Executar</a> •
  <a href="#License">Licença</a> • 
  <a href="#Author">Autor</a>
 </p>
 
-### Objetivo
+## Objetivo
 Nesse repositório guardo todas as anotações, materiais e projetos que foram realizados no curso. 
 
-### Features
+## Features
 
 - [x] Estrutura da aplicação
 - [x] Componentização
@@ -29,7 +30,7 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 - [x] Modal & Forms
 - [X] Contextos e hooks
 
-### Tecnologia
+## Tecnologia
 
 As seguintes linguagens foram utilizadas na construção do projeto:
 
@@ -39,11 +40,18 @@ As seguintes linguagens foram utilizadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-### Licença
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com yarn
+- Inicie o servidor com yarn start
+- Agora você pode acessar localhost:3000 do seu navegador.
+
+## Licença
 
 MIT License ©
 
-### Autor
+## Autor
 ---
 
 <p>Obrigado por conferir este projeto. 🔥</p> 
