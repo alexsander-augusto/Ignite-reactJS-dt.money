@@ -14,7 +14,7 @@
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Features">Features</a> • 
  <a href="#Tecnologia">Tecnologia</a> •
- <a href="#Comoexecutar">Como Executar</a> •
+ <a href="#Execução">Execução</a> •
  <a href="#Licença">Licença</a> • 
  <a href="#Autor">Autor</a>
 </p>
@@ -40,7 +40,7 @@ As seguintes linguagens foram utilizadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Como executar
+## Execução
 
 - Clone o repositório
 - Instale as dependências com yarn
